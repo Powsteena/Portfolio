@@ -115,7 +115,7 @@ const AboutMe = () => {
           </p>
           <p className="text-lg text-gray-300 leading-relaxed mb-6">
             I specialize in React, JavaScript, and modern web development technologies. When I'm not coding,
-            I enjoy [mention hobbies or interests].
+            I enjoy discovering new things in UIX.
           </p>
           <a
             href="/contact"
