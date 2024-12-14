@@ -19,7 +19,7 @@ const Projects = () => {
     },
     {
       title: "Getting Users",
-      description: "Real-time weather information using OpenWeatherMap API",
+      description: "Getting user details using the API",
       technologies: ["JavaScript", "API Integration", "Responsive Design"],
       githubLink: "https://github.com/Powsteena/employeee",
       liveLink: " https://powsteena.github.io/employeee/"

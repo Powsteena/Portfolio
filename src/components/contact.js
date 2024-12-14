@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Mail, Phone, MapPin } from 'lucide-react';
-import { Linkedin, Github, Facebook } from 'lucide-react';
+import { Linkedin, Github} from 'lucide-react';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -64,12 +64,12 @@ const Contact = () => {
                 <Github />
               </a>
               <a 
-                href="https://facebook.com" 
+                href="mailto:marypowsteenaj@gmail.com" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-indigo-600"
               >
-                <Facebook />
+                <Mail />
               </a>
             </div>
           </div>
